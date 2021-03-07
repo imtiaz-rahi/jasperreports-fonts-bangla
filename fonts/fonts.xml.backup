@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="AbirvabHimel">
+		<normal>fonts/AbirvabHimel/Abirvabhimel-vpMA.ttf></normal>
+		<bold>fonts/AbirvabHimel/AbirvabhimelBold-lJ6d.ttf></bold>
+		<italic>fonts/AbirvabHimel/AbirvabhimelItalic-16K2.ttf></italic>
+		<boldItalic>fonts/AbirvabHimel/AbirvabhimelBolditalic-nJlg.ttf></boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="AbirvabHimel Light">
+		<normal>fonts/AbirvabHimel/AbirvabhimelLight-R56A.ttf></normal>
+		<italic>fonts/AbirvabHimel/AbirvabhimelLightitalic-BAEd.ttf></italic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="AdorshoLipi">
+		<normal>fonts/AdorshoLipi_20-07-2007.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="BenSen">
+		<normal>fonts/Bensen-jEErM.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="BenSen Handwriting">
+		<normal>fonts/Bensenhandwriting-R4PW.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Bijoy">
+		<normal>fonts/Bijoy/Bijoy.ttf></normal>
+		<bold>fonts/Bijoy/Bijoy_B.ttf></bold>
+		<italic>fonts/Bijoy/Bijoy_I.ttf></italic>
+		<boldItalic>fonts/Bijoy/Bijoy_BI.ttf></boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Kalpurush">
+		<normal>fonts/kalpurush.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Mukti">
+		<normal>fonts/Mukti.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Nikosh">
+		<normal>fonts/Nikosh/Nikosh.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="NikoshBAN">
+		<normal>fonts/Nikosh/NikoshBAN.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="NikoshGrameem">
+		<normal>fonts/Nikosh/NikoshGrameen.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="NikoshLight">
+		<normal>fonts/Nikosh/NikoshLight.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="NikoshLightBAN">
+		<normal>fonts/Nikosh/NikoshLightBan.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Siyam Rupali">
+		<normal>fonts/Siyamrupali.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="SutonnyMJ">
+		<normal>fonts/Sutonny/SutonnyMJRegular.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="SutonnyOMJ">
+		<normal>fonts/Sutonny/SutonnyOMJ-Regular.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="SutonnyUniBanglaOMJ">
+		<normal>fonts/Sutonny/SutonnyUniBanglaOMJ.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Hind Siliguri">
+		<normal>fonts/HindSiliguri/HindSiliguri-Regular.ttf></normal>
+		<bold>fonts/HindSiliguri/HindSiliguri-Bold.ttf></bold>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Hind Siliguri Light">
+		<normal>fonts/HindSiliguri/HindSiliguri-Light.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Hind Siliguri Medium">
+		<normal>fonts/HindSiliguri/HindSiliguri-Medium.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+	<fontFamily name="Hind Siliguri SemiBold">
+		<normal>fonts/HindSiliguri/HindSiliguri-SemiBold.ttf></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+	</fontFamily>
+</fontFamilies>
